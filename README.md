@@ -1,4 +1,4 @@
-<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">Hello, I'm Marcello Lopes</h1>
+<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hello, I'm Marcello Lopes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcell0lopes&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior Web Developer focused on learning everyday!
