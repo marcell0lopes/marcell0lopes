@@ -1,3 +1,4 @@
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/marcell0lopes/23c52deac257dde11e38d7417644f41b/raw/608d9ff64223e6c6dbaa234d5dedfd48df1915a0/github-card.svg"/>
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hello, I'm Marcello Lopes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcell0lopes&color=yellow" alt="Profile views" /> </p>
 
@@ -13,7 +14,7 @@
 
 - ⚡ Fun fact: I **Love** playing games like CS:GO and Valorant and playing my bass guitar 😜
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 <!--- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; --->
@@ -36,11 +37,9 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=marcell0lopes&show_icons=true&theme=dracula" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcell0lopes&layout=compact&theme=dracula" alt="maykbrito's most languages"/>
+  <img width="450em" height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=marcell0lopes&show_icons=true&theme=dracula" alt="marcello lopes's stats"/>
+<img width="400em" height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcell0lopes&layout=compact&theme=dracula" alt="marcello lopes's most languages"/> 
 </p>
-
-<br><br>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
