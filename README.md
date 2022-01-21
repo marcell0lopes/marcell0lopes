@@ -45,7 +45,7 @@
 <img width="400em" height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcell0lopes&layout=compact&theme=dracula" alt="marcello lopes's most languages"/> 
 </p>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## :stuck_out_tongue_winking_eye: &nbsp;Social Links
 
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/marcell0lopes" target="_blank">
