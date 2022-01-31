@@ -2,7 +2,7 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hello, I'm Marcello Lopes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcell0lopes&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Web Developer focused on learning everyday!
+- 🔥 Web Developer focused on learning everyday! Studying hard React and Typescript at the moment.
 
 - 🔭 I’m currently open to work and collaborate on open-source projects!
 
@@ -10,7 +10,7 @@
 
 - ▶️ I regularly post things that I'm learning on my [LinkedIn](https://www.linkedin.com/in/marcellolopes30/)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Node.JS**
+- 💬 Ask me about **JavaScript, HTML/CSS, React and Typescript!** Lets talk! 
 
 - ⚡ Fun fact: I **Love** playing games like CS:GO and Valorant and playing my bass guitar 😜
 
