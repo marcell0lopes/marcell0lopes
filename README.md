@@ -1,4 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/marcell0lopes/23c52deac257dde11e38d7417644f41b/raw/608d9ff64223e6c6dbaa234d5dedfd48df1915a0/github-card.svg"/>
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hello, I'm Marcello Lopes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcell0lopes&color=yellow" alt="Profile views" /> </p>
 
