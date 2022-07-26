@@ -1,7 +1,7 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hello, I'm Marcello Lopes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcell0lopes&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Web Developer focused on learning everyday! Studying hard React and Typescript at the moment.
+- 🔥 Web Developer focused on learning everyday! Studying Typescript at the moment.
 
 - 🔭 I’m currently open to work and collaborate on open-source projects!
 
@@ -9,9 +9,9 @@
 
 - ▶️ I regularly post things that I'm learning on my [LinkedIn](https://www.linkedin.com/in/marcellolopes30/)
 
-- 💬 Ask me about **JavaScript, HTML/CSS, React and Typescript!** Lets talk! 
+- 💬 Ask me about **JavaScript, HTML/CSS, React, Vue, Svelte and Typescript!** Lets talk! 
 
-- ⚡ Fun fact: I **Love** playing games like CS:GO and Valorant and playing my bass guitar 😜
+- ⚡ Fun fact: I **Love** playing games (mostly e-sports) and playing my bass guitar 😜
 
 <br>
 
@@ -23,6 +23,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=reactnative)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
+![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte)&nbsp;
 ![Material Ui](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui)&nbsp;
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
