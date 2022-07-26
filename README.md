@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact: I **Love** playing games (mostly e-sports) and playing my bass guitar 😜
 
+### Check my own Visual Studio Code theme: [Lopes Dark Theme](https://marketplace.visualstudio.com/items?itemName=MarcelloLopes.lopes-dark-theme)
+
 <br>
 
 ## 🛠 &nbsp;Tech Stack
@@ -23,10 +25,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![React Native](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=reactnative)&nbsp;
+![React Native](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
 ![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte)&nbsp;
-![Material Ui](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui)&nbsp;
+![Material UI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui)&nbsp;
+![Chakra UI](https://img.shields.io/badge/-ChakraUI-05122A?style=flat&logo=chakraui)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
@@ -36,6 +39,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
 
 
 
