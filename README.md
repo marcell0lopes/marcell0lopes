@@ -48,7 +48,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-  <img width="450em" height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=marcell0lopes&show_icons=true&theme=dracula" alt="marcello lopes's stats"/>
+  <img width="450em" height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=marcell0lopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="marcello lopes's stats"/>
 <img width="400em" height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcell0lopes&layout=compact&theme=dracula" alt="marcello lopes's most languages"/> 
 </p>
 
