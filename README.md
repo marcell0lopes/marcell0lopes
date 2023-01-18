@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcell0lopes&label=Profile%20views&color=0e75b6&style=flat" alt="marcell0lopes" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcell0lopes" alt="marcell0lopes" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/marcellofront" target="blank"><img src="https://img.shields.io/twitter/follow/marcellofront?logo=twitter&style=for-the-badge" alt="marcellofront" /></a> </p>
 
 - 🔭 I’m currently working on [Various projects at MagnaSistemas](https://www.linkedin.com/company/magna-sistemas/)
